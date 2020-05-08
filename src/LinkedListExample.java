@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class LinkedList {
+public class LinkedListExample {
 
     static Node head; // head of list 
 
@@ -52,7 +52,7 @@ public class LinkedList {
 
     /* Driver program to test above function */
     public static void main(String[] args) {
-        LinkedList llist = new LinkedList();
+        LinkedListExample llist = new LinkedListExample();
 
         llist.push(20);
         llist.push(4);
