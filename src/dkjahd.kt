@@ -34,3 +34,10 @@ class UncertainAnimal {
     }
 }
 
+interface newInterface {
+    fun example(): Int {
+        val dd = 3
+        return dd
+    }
+}
+

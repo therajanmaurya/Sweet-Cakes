@@ -1,9 +1,10 @@
 public class TrappingRainWater {
 
     static int arr[] = new int[]{0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
+    static int arr1[] = new int[]{7, 0, 4, 2, 5, 0, 6, 4, 0, 5};
 
     public static void main(String[] args) {
-        System.out.println("Maximum water that can be accumulated is " + findWater1(arr));
+        System.out.println("Maximum water that can be accumulated is " + findWater1(arr1));
     }
 
     // Method for maximum amount of water

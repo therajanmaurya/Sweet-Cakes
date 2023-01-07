@@ -7,8 +7,8 @@ public class MiddleOfLinkedList {
 
     }
 
-    public static ListNode middleNode(ListNode head) {
-        HashMap<Integer, ListNode> nodes = new HashMap<>();
+    public static ListNode1 middleNode(ListNode1 head) {
+        HashMap<Integer, ListNode1> nodes = new HashMap<>();
         int length = 1;
 
         nodes.put(length, head);
@@ -22,9 +22,9 @@ public class MiddleOfLinkedList {
         return nodes.get((length/2) + 1);
     }
 
-    public static ListNode middleNodeWithOutHashMap(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
+    public static ListNode1 middleNodeWithOutHashMap(ListNode1 head) {
+        ListNode1 slow = head;
+        ListNode1 fast = head;
 
         while (fast != null && fast.next != null) {
             slow = slow.next;
@@ -34,11 +34,11 @@ public class MiddleOfLinkedList {
     }
 }
 
-class ListNode {
+class ListNode1 {
     int val;
-    ListNode next;
+    ListNode1 next;
 
-    ListNode(int x) {
+    ListNode1(int x) {
         val = x;
     }
 }
