@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e738b73a-c5e6-43da-8aa6-f135a50c4d49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/rmaurya.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MiddleOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MiddleOfLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrappingRainWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dkjahd.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dkjahd.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sweet-Cakes/META-INF/Sweet-Cakes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sweet-Cakes/META-INF/Sweet-Cakes.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +37,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/therajanmaurya/Interview/Sweet-Cakes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.FindPeakElementKt">
-    <configuration name="BinarySearchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.BinarySearchKt" />
-      <module name="Sweet-Cakes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.RemoveDigitKt">
     <configuration name="FindPeakElementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlinAlgos.FindPeakElementKt" />
       <module name="Sweet-Cakes" />
@@ -68,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedSquaresKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.SortedSquaresKt" />
+    <configuration name="RemoveDigitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.RemoveDigitKt" />
       <module name="Sweet-Cakes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidParenthesesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.ValidParenthesesKt" />
+      <module name="Sweet-Cakes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RemoveDigitKt" />
+        <item itemvalue="Kotlin.ValidParenthesesKt" />
         <item itemvalue="Kotlin.FindPeakElementKt" />
         <item itemvalue="Kotlin.StockBuySellMultipleTimeKt" />
         <item itemvalue="Kotlin.PaintKt" />
-        <item itemvalue="Kotlin.SortedSquaresKt" />
-        <item itemvalue="Kotlin.BinarySearchKt" />
       </list>
     </recent_temporary>
   </component>
@@ -126,44 +117,10 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlinAlgos/Paint.kt</url>
-          <line>28</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlinAlgos/Paint.kt</url>
-          <line>29</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlinAlgos/Paint.kt</url>
-          <line>30</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlinAlgos/Paint.kt</url>
-          <line>33</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlinAlgos/Paint.kt</url>
-          <line>32</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlinAlgos/Paint.kt</url>
-          <line>27</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/kotlinAlgos/Paint.kt</url>
-          <line>38</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="number" language="kotlin" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
