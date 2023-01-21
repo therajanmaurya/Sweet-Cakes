@@ -37,16 +37,9 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/therajanmaurya/Interview/Sweet-Cakes&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.RemoveDigitKt">
+  <component name="RunManager" selected="Kotlin.SubarraySumEqualsKKt">
     <configuration name="FindPeakElementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlinAlgos.FindPeakElementKt" />
-      <module name="Sweet-Cakes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PaintKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.PaintKt" />
       <module name="Sweet-Cakes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,6 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SubarraySumEqualsKKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.SubarraySumEqualsKKt" />
+      <module name="Sweet-Cakes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ValidParenthesesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kotlinAlgos.ValidParenthesesKt" />
       <module name="Sweet-Cakes" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SubarraySumEqualsKKt" />
         <item itemvalue="Kotlin.RemoveDigitKt" />
         <item itemvalue="Kotlin.ValidParenthesesKt" />
         <item itemvalue="Kotlin.FindPeakElementKt" />
         <item itemvalue="Kotlin.StockBuySellMultipleTimeKt" />
-        <item itemvalue="Kotlin.PaintKt" />
       </list>
     </recent_temporary>
   </component>
