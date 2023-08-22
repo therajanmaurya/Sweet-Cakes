@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e738b73a-c5e6-43da-8aa6-f135a50c4d49" name="Default Changelist" comment="">
+    <list default="true" id="e738b73a-c5e6-43da-8aa6-f135a50c4d49" name="Default Changelist" comment="Check It's Valid Parenthesis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Sweet-Cakes/META-INF/Sweet-Cakes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sweet-Cakes/META-INF/Sweet-Cakes.kotlin_module" afterDir="false" />
     </list>
@@ -15,6 +15,7 @@
       <list>
         <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin Script" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -35,51 +36,61 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/therajanmaurya/Interview/Sweet-Cakes&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;kotlin&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.CapacityOfShipKt">
-    <configuration name="CapacityOfShipKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.CapacityOfShipKt" />
+  <component name="RunManager" selected="Kotlin.ReverseStringKt">
+    <configuration name="FirstOccurrenceInStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.FirstOccurrenceInStringKt" />
       <module name="Sweet-Cakes" />
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="FindPeakElementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.FindPeakElementKt" />
+    <configuration name="LongestCommonPrefixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.LongestCommonPrefixKt" />
       <module name="Sweet-Cakes" />
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="RemoveDigitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.RemoveDigitKt" />
+    <configuration name="RemoveDuplicatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.RemoveDuplicatesKt" />
       <module name="Sweet-Cakes" />
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration name="SubarraySumEqualsKKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.SubarraySumEqualsKKt" />
+    <configuration name="ReverseStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.ReverseStringKt" />
       <module name="Sweet-Cakes" />
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
     <configuration name="ValidParenthesesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.ValidParenthesesKt" />
+      <option name="MAIN_CLASS_NAME" value="practice.ValidParenthesesKt" />
       <module name="Sweet-Cakes" />
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.CapacityOfShipKt" />
-        <item itemvalue="Kotlin.SubarraySumEqualsKKt" />
-        <item itemvalue="Kotlin.RemoveDigitKt" />
+        <item itemvalue="Kotlin.ReverseStringKt" />
+        <item itemvalue="Kotlin.FirstOccurrenceInStringKt" />
+        <item itemvalue="Kotlin.RemoveDuplicatesKt" />
         <item itemvalue="Kotlin.ValidParenthesesKt" />
-        <item itemvalue="Kotlin.FindPeakElementKt" />
+        <item itemvalue="Kotlin.LongestCommonPrefixKt" />
       </list>
     </recent_temporary>
   </component>
@@ -117,9 +128,18 @@
     </option>
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/practice/RomanToInteger.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="JetRunConfigurationType">
-        <watch expression="number" language="kotlin" />
+        <watch expression="roman.substring(start, start + 1)" language="kotlin" />
       </configuration>
     </watches-manager>
   </component>
