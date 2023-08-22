@@ -5,7 +5,7 @@ public class CakeShop {
 
     public static void main(String[] args) {
         System.out.println("Main");
-        ArrayList<Integer> logs = new ArrayList<>() {{
+        ArrayList<Integer> logs = new ArrayList<Integer>() {{
             //add(1);
             add(2);
             add(3);

@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e738b73a-c5e6-43da-8aa6-f135a50c4d49" name="Default Changelist" comment="Check It's Valid Parenthesis">
+    <list default="true" id="e738b73a-c5e6-43da-8aa6-f135a50c4d49" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Sweet-Cakes/META-INF/Sweet-Cakes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Sweet-Cakes/META-INF/Sweet-Cakes.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CakeShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CakeShop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +49,9 @@
   <component name="RunManager" selected="Kotlin.ReverseStringKt">
     <configuration name="FirstOccurrenceInStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.FirstOccurrenceInStringKt" />
+  <component name="RunManager" selected="Kotlin.ReverseWordsInAStringKt">
+    <configuration name="CapacityOfShipKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.CapacityOfShipKt" />
       <module name="Sweet-Cakes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +60,8 @@
     </configuration>
     <configuration name="LongestCommonPrefixKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.LongestCommonPrefixKt" />
+    <configuration name="RemoveDigitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.RemoveDigitKt" />
       <module name="Sweet-Cakes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,6 +70,8 @@
     </configuration>
     <configuration name="RemoveDuplicatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.RemoveDuplicatesKt" />
+    <configuration name="ReverseWordsInAStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kotlinAlgos.ReverseWordsInAStringKt" />
       <module name="Sweet-Cakes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,6 +101,11 @@
         <item itemvalue="Kotlin.RemoveDuplicatesKt" />
         <item itemvalue="Kotlin.ValidParenthesesKt" />
         <item itemvalue="Kotlin.LongestCommonPrefixKt" />
+        <item itemvalue="Kotlin.ReverseWordsInAStringKt" />
+        <item itemvalue="Kotlin.CapacityOfShipKt" />
+        <item itemvalue="Kotlin.SubarraySumEqualsKKt" />
+        <item itemvalue="Kotlin.RemoveDigitKt" />
+        <item itemvalue="Kotlin.ValidParenthesesKt" />
       </list>
     </recent_temporary>
   </component>
